@@ -48,3 +48,5 @@
 6. 回到终端，执行`nohup node /my-yapi/vendors/server/app.js 2>&1 &` 在后台运行`yapi`
 
 7. 执行`ctrl+p`+`ctrl+q` 退出容器即可
+
+2342432342
